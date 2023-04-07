@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6D7EE034-D67C-4271-A476-E2EE0543F48B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fbognini.AutoMapper", "src\fbognini.AutoMapper\fbognini.AutoMapper.csproj", "{7C177307-FAF4-496A-B5D8-10981E419AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C177307-FAF4-496A-B5D8-10981E419AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C177307-FAF4-496A-B5D8-10981E419AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C177307-FAF4-496A-B5D8-10981E419AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C177307-FAF4-496A-B5D8-10981E419AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C177307-FAF4-496A-B5D8-10981E419AC0} = {6D7EE034-D67C-4271-A476-E2EE0543F48B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86E01619-41FC-4219-AD5F-1E384E6D8C8D}
+	EndGlobalSection
+EndGlobal
