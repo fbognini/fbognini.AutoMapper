@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PackageId>fbognini.AutoMapper</PackageId>
     <TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Francesco Bognini</Authors>
     <Company>Francesco Bognini</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
@@ -13,8 +13,7 @@
   </PropertyGroup>
 	
     <ItemGroup>
-	    <PackageReference Include="AutoMapper" Version="13.0.1" />
-	    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+	    <PackageReference Include="AutoMapper" Version="11.0.0" />
     </ItemGroup>
 
   <ItemGroup>
